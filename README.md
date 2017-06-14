@@ -26,6 +26,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Ya sabéis, haciend
 * [Rodríguez Naranjo, Moisés - Hotel Fuente Alegre](https://github.com/MoisesRodriguezN/ProyectoFinalWeb)
 * [Téllez Santana, María Elena - Gesticole](https://github.com/ElenaTellez/Gesticole.git)
 * [Zambrana Naranjo, Alejandro - MilField-Player](https://github.com/alejandrozambrana/MilField-Player)
+* [Jiménez Martín, Moisés - ToyMaker](https://github.com/mjimenezmartin/ProyectoIntegrado/blob/master/TOYMAKER.pdf)
 
 
 [Requisitos que debe cumplir el proyecto](https://github.com/LuisJoseSanchez/indice-proyectos-daw-2017/wiki)
